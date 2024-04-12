@@ -46,7 +46,8 @@ with connection:
 
     # with connection.cursor() as cursor:
     #     sql = (
-    #         f'INSERT INTO {TABLE_NAME} (name, value) VALUES (%(name)s, %(age)s)'
+    #         f'INSERT INTO {TABLE_NAME} (name, value) VALUES
+    # # (%(name)s, %(age)s)'
     #     )
     #     data3 = (
     #         {"name": "Sah", "age": 33, },
